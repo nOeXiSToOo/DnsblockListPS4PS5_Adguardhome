@@ -31,6 +31,10 @@
 ||rsgameservices.com^
 ||playstation.com^
 ||epicgames.com^
+||epicgames.com^
+||gog.com^
+||cdpred.services^
+||cdprojekt.com^
 #PS4
 0.0.0.0	dau01.ps4.update.playstation.net
 0.0.0.0	dbr01.ps4.update.playstation.net
