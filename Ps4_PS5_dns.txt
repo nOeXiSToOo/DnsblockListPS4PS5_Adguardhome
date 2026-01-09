@@ -31,7 +31,6 @@
 ||rsgameservices.com^
 ||playstation.com^
 ||epicgames.com^
-||epicgames.com^
 ||gog.com^
 ||cdpred.services^
 ||cdprojekt.com^
