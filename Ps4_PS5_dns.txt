@@ -28,6 +28,8 @@
 0.0.0.0 us.np.stun.playstation.net
 0.0.0.0 cfss.crs.playstation.net
 0.0.0.0 gs-sec.ww.np.dl.playstation.net
+0.0.0.0 uef.np.dl.playstation.net
+0.0.0.0 i.ytimg.com
 ||rsgameservices.com^
 ||playstation.com^
 ||epicgames.com^
