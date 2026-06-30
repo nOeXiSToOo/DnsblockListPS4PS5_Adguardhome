@@ -1,5 +1,6 @@
 # Archivo Ps4_PS5_dns.txt
 https://github.com/djdarien/ps4updateblock
+
 DnsblockListPS4PS5_Adguardhome
 DNS block list for ps4 and ps5, block telemetry and updates from sony
 
@@ -8,6 +9,7 @@ https://github.com/MagicStuffCL/DnsblockListPS4PS5_Adguardhome/blob/main/Ps4_PS5
 
 # Archivo ps-block
 https://github.com/Misl3d/PS-dns-block
+
 Playstation-dns-block
 List of known PS4 update server
 
